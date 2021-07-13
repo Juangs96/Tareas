@@ -71,4 +71,6 @@ var_percentil = quantile(var_sacoscafe, probs = seq(0, 1, 0.25))
 
 #Punto 7.
 
-#Stringr es un paquete para la manipulación de cadenas o caracteres
+#Stringr es un paquete para la manipulaciÃ³n de cadenas o caracteres
+
+#96
